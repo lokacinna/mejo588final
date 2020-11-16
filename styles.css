@@ -8,6 +8,15 @@
   padding: 10px;
 }
 
+#demo {
+  background: #6B3789;
+  color: white;
+}
+
+#demo-title {
+  color: white;
+}
+
 #headingOne {
   background: #6B3789;
 }
