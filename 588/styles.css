@@ -1,0 +1,66 @@
+#black {
+  background: #6B3789;
+  color: white;
+  text-align: center;
+}
+
+#team {
+  padding: 10px;
+}
+
+#headingOne {
+  background: #6B3789;
+}
+
+#dropdown {
+  color: white;
+}
+
+h1 {
+  font-family: 'Big Shoulders Inline Text', cursive;
+}
+
+h2 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color:#6B3789;
+}
+
+h3, h4, h5, h6 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+body, p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container, .container-fluid {
+  padding: 5%;
+}
+
+.nav-link, .nav-item {
+  background: white;
+  color: #6B3789;
+}
+
+.active {
+  background: #6B3789 !important;
+  color: white !important;
+  border: 5px solid white !important;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #bf87df;
+  border-color: #bf87df;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #ff7322;
+  border-color: #ff7322;
+}
+
+.page-footer {
+  background:#6B3789;
+  color: white;
+}
